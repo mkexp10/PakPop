@@ -1,4 +1,4 @@
-# PAKISTAN POPCORN Website
+# PAKISTAN POPCORN Website By Mujeer
 
 A modern, responsive website for discovering delicious Pakistani-style popcorn recipes. Built with HTML5, CSS3, and vanilla JavaScript.
 
